@@ -34,9 +34,9 @@ Contrairement à la totalité des produits concurrents, à la fois:
 
 ---
 
-## Études de conception personnalisées
+## Études personnalisées
 
-Je réalise sur demande tout projet d'étude de conception domotique, mon formulaire de contact est disponible sur ce lien :  
+Pour aller plus loin, je propose mes services pour tout type de projet technique d'étude et de réalisation, mon formulaire de contact:  
 [formulaire de contact](https://prestazur.fr/contact).
 
 ---
