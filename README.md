@@ -36,8 +36,7 @@ Contrairement à la totalité des produits concurrents, à la fois:
 
 ## Études personnalisées
 
-Pour aller plus loin, je propose mes services pour tout type de projet technique d'étude et de réalisation, mon formulaire de contact:  
-[formulaire de contact](https://prestazur.fr/contact).
+Pour aller plus loin, je propose mes services pour tout type de projet technique d'étude et de réalisation, vous avez sur lien mon [formulaire de contact](https://prestazur.fr/contact).
 
 ---
 
