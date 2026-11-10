@@ -4,7 +4,7 @@
  
 # Scripts pour modules Shelly
 
-Vous trouvez ici un exemple de script réalisé par mes soins, adapté à l'utilisation de modules Shelly.  **EXCLUSIF: personne d'autre ne partage celà, ni ici sur GitHub ni ailleurs !**  *(ni le constructeur sur son site officiel).*
+J'ai réalisé cet exemple complet et fonctionnel de script adapté à l'utilisation de modules Shelly.  **je n'ai trouvé nulle part sur le Net le moindre exemple complet de script Shelly, ni ici sur GitHub ni ailleurs !**  *(ni le constructeur sur son site officiel).* en espérant que ce partage vous sera utile :-)
 
 **avantage:** possibilité de programmer des interractions entre différents éléments (capteurs, luminaires, télécommandes ...), de personnaliser différents scénarios ... le tout sans nécessité de disposer d'un accès à internet.
 
