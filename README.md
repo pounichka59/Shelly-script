@@ -8,7 +8,7 @@ Vous trouvez ici un exemple de script réalisé par mes soins, adapté à l'util
 
 **avantage:** possibilité de programmer des interractions entre différents éléments (capteurs, luminaires, télécommandes ...), de personnaliser différents scénarios ... le tout sans nécessité de disposer d'un accès à internet.
 
-exemple d'utilisation: une porte ou une fenetre ouverte juste à coté d'un radiateur: l'alimentation du radiateur se désactive automatiquement ....    autre exemple: un clic sur une telecommande bouton, sans wifi ni internet un ensemble d'éclairages s'éteint, ou s'allume, ou change d'intensité, de couleur en particulier...
+exemple d'utilisation: une porte ou une fenetre ouverte juste à coté d'un radiateur: l'alimentation du radiateur se désactive automatiquement ....    autre exemple: un clic sur une telecommande bouton, sans wifi ni internet un ensemble d'éclairages s'éteint, ou s'allume, ou change d'intensité, de couleur en particulier... aujourd'hui ce type de comportement n'est généralement possible que sous la condition que le matériel soit connecté à internet ou à un serveur local, la solution est ici et unique: un module  Shelly utilisant un script...
 
 ---
 
